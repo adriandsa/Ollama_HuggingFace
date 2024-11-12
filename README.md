@@ -2,7 +2,7 @@ Ollama, an application based on llama.cpp, now allows users to run any of the 45
 
 # LangChain-Ollama Integration Examples
 
-This repository demonstrates how to integrate LangChain with Ollama to interact with Hugging Face GGUF models locally. The examples show how to create simple yet powerful applications using locally-hosted language models.
+This repository demonstrates how to integrate LangChain with Ollama to interact with Hugging Face GGUF models locally. The examples show how to create simple yet powerful applications using locally-hosted language models. Here is the [link](https://medium.com/@adrian.dsa/running-hugging-face-models-locally-with-ollama-and-langchain-aa1ecd9f0d72) to an article I wrote on this topic.
 
 ## Prerequisites
 
